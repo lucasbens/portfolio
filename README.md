@@ -9,4 +9,4 @@
 
 
 
-![](https://github.com/lucasbens/portfolio/blob/main/images/IMG_2289.jpg)
+![](/images/IMG_2289.jpg)
