@@ -1,4 +1,5 @@
-[CV](https://github.com/lucasbens) / [Email](mailto:bental.lucas@gmail.com) / [Linkedin](https://www.linkedin.com/in/lucas-bental-898ab8130/)
+[CV](https://lucasbens.github.io/Resume/) / [Email](mailto:bental.lucas@gmail.com) / [Linkedin](https://www.linkedin.com/in/lucas-bental-898ab8130/) / [Github](https://github.com/lucasbens)
+
 
 
 # [Project 1: Data Science Salary Estimator](https://github.com/lucasbens/LinkedinProject) 
