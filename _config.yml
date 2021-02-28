@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 description: 'Data Science'
+title: 'ceci est un title'
 github:
   repository_url: https://github.com/lucasbens
+
+
